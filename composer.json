@@ -1,0 +1,23 @@
+{
+    "name": "chung/mini-mvc",
+    "description": "Criando mini-framework mvc",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Chung",
+            "email": "danielvchung@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Src\\": "src/"
+        }
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "*"
+    },
+    "scripts": {
+        "server": "php -S localhost:8000"
+    }
+}

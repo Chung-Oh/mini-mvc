@@ -2,8 +2,7 @@
 Criando um mini-framework MVC, esse repositório é apenas para estudo.
 
 # Informações importantes
-Para o mini-framework MVC funcionar conforme esperado, deve-se ter o conhecimento das PSRs 1, 4 e 12. Desenvolvido e testado nas
-nas seguintes versões:
+Para o mini-framework MVC funcionar conforme esperado, deve-se ter o conhecimento das PSRs 1, 4 e 12. Desenvolvido e testado nas seguintes versões:
 - PHP 7.3.11
 - Composer 1.9.0
 

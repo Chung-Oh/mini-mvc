@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Src\DI;
 
-use App\Conn;
+use Src\Conn;
 
 /**
  * Dependency Injection

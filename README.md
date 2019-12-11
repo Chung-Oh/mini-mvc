@@ -1,4 +1,4 @@
-# mini-mvc-1
+# mini-mvc
 Criando um mini-framework MVC, esse repositório é apenas para estudo.
 
 # Informações importantes
